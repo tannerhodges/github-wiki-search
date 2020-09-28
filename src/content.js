@@ -8,7 +8,7 @@
   }
 
   // Get search URL for the current repo.
-  const search = window.location.pathname.replace(/\/wiki\/?.*/, '/search');
+  const search = window.location.pathname.replace(/(\/.*?\/.*?\/)wiki.*/, '$1search');
 
   // Add search form to the top of the sidebar.
   sidebar.insertAdjacentHTML('afterbegin', `
