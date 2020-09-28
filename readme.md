@@ -2,7 +2,9 @@
 
 Chrome extension for adding a simple search box to GitHub wikis.
 
-👉 [Download from the Chrome Web Store](https://chrome.google.com/webstore/detail/github-wiki-search/neadealkfeligebmmolcibhbcdfplhhg).
+👉 [Download Chrome Extension](https://chrome.google.com/webstore/detail/github-wiki-search/neadealkfeligebmmolcibhbcdfplhhg).
+
+👉 [Download Firefox Extension](https://addons.mozilla.org/addon/github-wiki-search/).
 
 ![](./screenshots/example.png)
 
