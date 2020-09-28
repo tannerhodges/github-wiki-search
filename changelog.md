@@ -9,7 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.1] - 2020-09-28
 
+### Added
+
 - Add Firefox extension.
+
+### Changed
+
 - Improve regex to fix forms for repos that start with "wiki" (e.g., `/tannerhodges/wiki-plugin/wiki`).
 
 ## [1.0.0] - 2020-09-26
