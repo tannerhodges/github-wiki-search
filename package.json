@@ -1,6 +1,6 @@
 {
   "name": "github-wiki-search",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Chrome extension for adding a simple search box to GitHub wikis.",
   "keywords": [
     "chrome",
@@ -22,11 +22,11 @@
   },
   "homepage": "https://github.com/tannerhodges/github-wiki-search#readme",
   "dependencies": {
-    "eslint": "^7.6.0",
-    "eslint-config-airbnb-base": "^14.2.0",
-    "eslint-plugin-import": "^2.22.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2",
     "gulp": "^4.0.2",
-    "gulp-zip": "^5.0.2"
+    "gulp-zip": "^5.1.0"
   },
   "author": "Tanner Hodges <me@tannerhodges.com>",
   "license": "MIT"
