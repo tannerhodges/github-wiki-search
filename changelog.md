@@ -14,6 +14,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix dark theme styles.
 - Fix search box failing to display after PJAX page loads.
 
+### Changed
+
+- Update npm dependencies.
+
 ## [1.0.1] - 2020-09-28
 
 ### Added
