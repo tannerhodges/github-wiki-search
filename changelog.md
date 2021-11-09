@@ -7,34 +7,42 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.3] - 2021-11-07
+
+### Added
+
+- 🖥 Add Safari extension.
+- 🔒 Add Privacy Policy.
+
 ## [1.0.2] - 2021-11-07
 
 ### Fixed
 
-- Fix dark theme styles.
-- Fix search box failing to display after PJAX page loads.
+- 🌗 Fix dark theme styles.
+- 📟 Fix search box failing to display after PJAX page loads.
 
 ### Changed
 
-- Update npm dependencies.
+- 🤖 Update npm dependencies.
 
 ## [1.0.1] - 2020-09-28
 
 ### Added
 
-- Add Firefox extension.
+- 🦊 Add Firefox Extension.
 
 ### Changed
 
-- Improve regex to fix forms for repos that start with "wiki" (e.g., `/tannerhodges/wiki-plugin/wiki`).
+- ⚙️ Improve regex to fix forms for repos that start with "wiki" (e.g., `/tannerhodges/wiki-plugin/wiki`).
 
 ## [1.0.0] - 2020-09-26
 
 ### Added
 
-- First version!
+- 🆕 First version!
 
-[Unreleased]: https://github.com/tannerhodges/github-wiki-search/compare/v1.0.2...HEAD
+[Unreleased]: https://github.com/tannerhodges/github-wiki-search/compare/v1.0.3...HEAD
+[1.0.3]: https://github.com/tannerhodges/github-wiki-search/compare/v1.0.2...v1.0.3
 [1.0.2]: https://github.com/tannerhodges/github-wiki-search/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/tannerhodges/github-wiki-search/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/tannerhodges/github-wiki-search/releases/tag/v1.0.0

@@ -1,9 +1,11 @@
 {
   "name": "github-wiki-search",
-  "version": "1.0.2",
-  "description": "Chrome extension for adding a simple search box to GitHub wikis.",
+  "version": "1.0.3",
+  "description": "Browser extension for adding a simple search box to GitHub wikis.",
   "keywords": [
     "chrome",
+    "firefox",
+    "safari",
     "extension",
     "github",
     "wiki",
