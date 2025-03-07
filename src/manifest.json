@@ -1,7 +1,7 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "GitHub Wiki Search",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "Simple search box for GitHub wikis.",
   "icons": {
     "16": "icon-16.png",
